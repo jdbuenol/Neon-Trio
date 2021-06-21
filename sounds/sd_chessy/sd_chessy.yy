@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sd_chessy.mp3",
-  "duration": 118.052322,
+  "duration": 136.0507,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

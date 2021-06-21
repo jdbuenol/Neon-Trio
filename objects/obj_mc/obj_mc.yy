@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sp_mc",
-    "path": "sprites/sp_mc/sp_mc.yy",
+    "name": "sp_waifu",
+    "path": "sprites/sp_waifu/sp_waifu.yy",
   },
   "solid": false,
   "visible": true,
