@@ -2,8 +2,8 @@ if(room == rm_1){
 	draw_text_transformed(0, 0, "score: " + string(score), 2, 2, 0);
 }
 else if(room == rm_title){
-	draw_text_transformed(128, 64, "NEON GAME", 3, 3, 0);
-	draw_text_transformed(128, 192, "Coder: jdbuenol\nArtist: rei/an\nMusic: Miles", 2, 2, 0);
+	draw_text_transformed(128, 64, "NEON RHYTHM", 2.8, 2.8, 0);
+	draw_text_transformed(128, 192, "Coder: jdbuenol\nArtist: Decaf\nMusic: Miles Yalzin", 2, 2, 0);
 	draw_text_transformed(128, 384, "Graze the bullets\nto make points\n <- and -> to move\n\nEnter to start", 2, 2, 0);
 }
 else if(room == rm_lose){
